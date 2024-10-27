@@ -1,1 +1,1 @@
-python:3.11 [registry-https://registry.hub.docker.com/r/miigotu/python3.11]/ miigotu/python3.11
+miigotu/python3.11
