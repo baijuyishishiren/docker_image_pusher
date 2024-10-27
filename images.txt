@@ -1,1 +1,1 @@
-python:latest python
+python:latest
