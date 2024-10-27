@@ -1,1 +1,1 @@
-python
+python:alpine3.19
