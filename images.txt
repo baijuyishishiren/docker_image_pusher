@@ -1,1 +1,1 @@
-python registry.hub.docker.com/python
+python:latest python
