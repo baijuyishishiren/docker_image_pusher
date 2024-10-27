@@ -1,2 +1,1 @@
-neiellcare71/python3.11.9
-python:3.11.10-alpine
+python
