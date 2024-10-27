@@ -1,1 +1,1 @@
-miigotu/python3.11
+postgres
